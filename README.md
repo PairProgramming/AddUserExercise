@@ -15,6 +15,8 @@ Or some combination of the three.  Here is a live example focused mainly on the 
 
 See the [full sequence of code commits for this session](https://github.com/tansaku/AddUserExercise/commits/master) 
 
+Notes
+-----
 
-
+* Need to add tags
 
